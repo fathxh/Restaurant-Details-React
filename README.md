@@ -1,4 +1,4 @@
-Hosted link : https://6412e9df4d659806954b8121--moonlit-scone-f7a6cb.netlify.app/
+Hosted link : https://restourantdetails-fathxh.netlify.app/
 
 # Getting Started with Create React App
 
